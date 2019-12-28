@@ -1,1 +1,1 @@
-# Sua resolução do exercicio 1 - Matrix
+# Sua resolução do exercício 1 - Matrix
